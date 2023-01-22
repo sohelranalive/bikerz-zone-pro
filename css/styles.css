@@ -1,0 +1,14 @@
+.bz-banner{
+    background: url(../images/bike-banner.jpg);
+    background-size: 100% 100%;
+    
+    width: 100%;
+}
+
+.rating{
+    width: 20px;
+}
+
+.bz-footer{
+    background-color: rgba(16, 16, 63, 0.733);
+}
